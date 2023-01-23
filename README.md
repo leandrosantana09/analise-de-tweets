@@ -14,16 +14,17 @@ O seguinte repositorio contém dados coletados da rede social Tweeter, e analisa
 - numpy (https://numpy.org/)
 - tweepy (https://www.tweepy.org/)
 - matplotlib (https://matplotlib.org/)
+- sklearn (https://scikit-learn.org/)
 
-## Propias de processamento de linguagem natural (do ingles NLP - Natural Language Processing)
+
+## Natural Language Processing:
 - textblob (https://textblob.readthedocs.io/)
 - nltk (https://www.nltk.org/)
-- sklearn (https://scikit-learn.org/)
+
 
 # Explicação dos arquivos:
 
 - 'analise_tweets.ipynb' =>  análise dos dados;
-
 - 'info_apoio.py' => funções auxiliares.
 
 
