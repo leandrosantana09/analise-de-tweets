@@ -9,13 +9,16 @@ O seguinte repositorio contém dados coletados da rede social Tweeter, e analisa
 
 # Principais bibliotecas ultilizadas (Python 3.8)
 
-- pandas
-- numpy
-- tweepy
-- matplotlib
-- textblob
-- nltk
-- sklearn
+## Basicas:
+- pandas (https://pandas.pydata.org/)
+- numpy (https://numpy.org/)
+- tweepy (https://www.tweepy.org/)
+- matplotlib (https://matplotlib.org/)
+
+## Propias de processamento de linguagem natural (do ingles NLP - Natural Language Processing)
+- textblob (https://textblob.readthedocs.io/)
+- nltk (https://www.nltk.org/)
+- sklearn (https://scikit-learn.org/)
 
 # Explicação dos arquivos:
 
@@ -24,7 +27,7 @@ O seguinte repositorio contém dados coletados da rede social Tweeter, e analisa
 - 'info_apoio.py' => funções auxiliares.
 
 
-# CONTATO PROFICIONAL
+# CONTATO PROFISSIONAL
 
 - Linkedin: https://www.linkedin.com/in/santana-leandro/
 - Email: leandro09@unifei.edu.br 
